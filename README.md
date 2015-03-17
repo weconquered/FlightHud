@@ -21,3 +21,4 @@ add the following code in the controller, where you wan't to use the hue
     [hueController setYawAngle:150];
     
 the display effect in a UAVGS project:
+![image](https://github.com/weconquered/FlightHue/blob/master/effect_0.PNG)
